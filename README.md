@@ -162,8 +162,8 @@ This project is open-source and available under the [MIT License](LICENSE).
 ## 👤 Author
 
 *Your Name*
-- GitHub: [@your-username](https://github.com/amritasamanta904-ctrl)
-- LinkedIn: [your-linkedin](https://linkedin.com/in/amritasamanta904-ctrl)
+- GitHub: [@My-username](https://github.com/amritasamanta904-ctrl)
+- LinkedIn: [My-linkedin](https://linkedin.com/in/amritasamanta904-ctrl)
 
 ---
 
