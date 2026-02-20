@@ -174,11 +174,11 @@ pip install opencv-python numpy tensorflow keras
 
 ## 👤 Author
 
-**Student Name** — B.Sc (CSE), Haldia Institute of Management  
+**Amrita samanta** — B.Sc (CSE), Haldia Institute of Management  
 Mentored by: **SK Sahil** (AI Developer & Tutor) — [@Code_ScholarEU](https://www.instagram.com/code_scholar_eu/)
 
-- 🐙 GitHub: `https://github.com/your-username`
-- 📧 Email: `your-email@example.com`
+- 🐙 GitHub: `https://github.com/your-amritasamanta904-ctrl`
+- 📧 Email: `your-amritasamanta904@email.com`
 - 📸 Instagram: [@code_scholar_eu](https://www.instagram.com/code_scholar_eu/)
 
 ---
