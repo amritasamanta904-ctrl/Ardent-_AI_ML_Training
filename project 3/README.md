@@ -1,4 +1,4 @@
-# 🎓 Student Portfolio — AI & Python Projects
+# 🎓 Amrita — AI & Python Projects
 
 > A modern, animated personal portfolio website for a B.Sc (CSE) student showcasing AI/ML workshop projects, skills, and learning journey.
 
